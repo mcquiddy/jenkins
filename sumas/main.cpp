@@ -1,7 +1,7 @@
 #include <QCoreApplication>
 #include "iostream"
 using namespace std;
-/**
+/**clase para suma
  * @brief main menu princial
  * @param argc  argumento
  * @param argv   arreglo
