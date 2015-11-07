@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
     QCoreApplication a(argc, argv);
      int first=5;
      int second=6;
-     int suma="hola";
+     int suma=11;
      cout<<suma<<endl;
     return a.exec();
 }
